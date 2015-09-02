@@ -1,6 +1,8 @@
 ## Session manager service
 Session manager service provides a REST API Layer for [session manager library](https://github.com/rodricifuentes1/session-manager) built on top of [spray.io](spray.io)
 ## Usage
+### Download the compiled version here [ ![Download](https://api.bintray.com/packages/rodricifuentes1/RC-releases/session-manager-service/images/download.svg) ](https://bintray.com/rodricifuentes1/RC-releases/session-manager-service/_latestVersion)
+
 ### Configuration
 Session manager service has an `application.conf` file defined with these settings:
 ```
