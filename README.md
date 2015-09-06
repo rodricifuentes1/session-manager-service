@@ -4,7 +4,7 @@ Session manager service provides a REST API Layer for [session manager library](
 ### Download the compiled version here [ ![Download](https://api.bintray.com/packages/rodricifuentes1/RC-releases/session-manager-service/images/download.svg) ](https://bintray.com/rodricifuentes1/RC-releases/session-manager-service/_latestVersion)
 
 ### Configuration
-Session manager service has an `application.conf` file defined with these settings:
+Session manager service has an `session-manager-service.conf` file defined with these settings:
 ```
 co.rc.smservice {
   api {
